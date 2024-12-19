@@ -1,0 +1,37 @@
+*{
+    box-sizing:border-box;
+}
+.background{
+    background-color:rgb(87, 126, 3);
+    width:100vw;
+    height:100vh;
+    padding:40px;
+    margin:-10;
+}
+.cart{
+    background:aliceblue;
+    width:500px;
+    height:300px;
+    margin:100px;
+    border-radius:10px;
+    padding:20px;
+    padding-left:50px;
+    padding-right:50px;
+    margin-top:20px;
+    
+}
+.heading{
+    color:blueviolet;
+    font-size:44px;
+    font-weight:600px;
+    font-family:sans-serif;
+    text-align:center;
+    
+}
+.para{
+    color:rgb(4, 1, 6);
+    font-size:20px;
+    font-weight:500px;
+    font-family:sans-serif;
+    
+}
